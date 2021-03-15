@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Luis Hernández 
-- 👀 I’m interested in Datascience
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Datascience and Machine Learning
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me luishernand11@gmail.com
 
